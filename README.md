@@ -1,4 +1,9 @@
 ## Hi there 👋
 
-Roadmaps created by me 
-- [Mechanical Engineering](https://roadmap.sh/r/mechanical-engineer-0yi5s)
+### 🌟 About Me
+
+I'm Balint, a curious learner passionate about engineering and technology.
+
+### 📝 Contributions
+
+- 🛠️ [Mechanical Engineering Roadmap](https://roadmap.sh/r/mechanical-engineer-0yi5s)
